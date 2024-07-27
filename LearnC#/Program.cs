@@ -10,3 +10,7 @@ static void sayHey()
 {
     Console.WriteLine("Hello");
 }
+static void sayHy()
+{
+    Console.WriteLine("Hello");
+}
