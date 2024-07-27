@@ -14,3 +14,5 @@ static void sayHy()
 {
     Console.WriteLine("Hello");
 }
+int x = 5;
+int y = 2;
